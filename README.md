@@ -35,9 +35,12 @@ This project analyzes the financial performance of Microsoft, Tesla, and Apple u
 ## 📷 Sample Output
 
 ### Revenue Growth (2022–2024)
-
-(sample_chart.png)
 *Line chart comparing revenue of Microsoft, Tesla, and Apple over 3 years*
+
+ 
+|--------------------------------------|
+| ![Sample Chart](sample_chart.png)    |
+
 
 ---
 
