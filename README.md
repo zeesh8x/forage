@@ -38,8 +38,7 @@ This project analyzes the financial performance of Microsoft, Tesla, and Apple u
 *Line chart comparing revenue of Microsoft, Tesla, and Apple over 3 years*
 
  
-|--------------------------------------|
-| ![Sample Chart](sample_chart.png)    |
+ ![Sample Chart](sample_chart.png)    
 
 
 ---
@@ -55,10 +54,10 @@ To run this notebook locally:
    
 2. Install required packages:
 
-  pip install pandas matplotlib seaborn
+   pip install pandas matplotlib seaborn
 
 3. Open the NoteBook:
 
-  In VS Code or Jupyter, open forage.ipynb
+   In VS Code or Jupyter, open forage.ipynb
 
-  Or run in terminal: jupyter notebook forage.ipynb 
+   Or run in terminal: jupyter notebook forage.ipynb 
