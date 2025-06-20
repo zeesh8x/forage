@@ -42,6 +42,12 @@ This project analyzes the financial performance of Microsoft, Tesla, and Apple u
 
 
 ---
+### Project Workflow 
+
+ 
+ ![Work Flow](Project_workflow.png)    
+
+---
 
 ## 🚀 Getting Started
 
